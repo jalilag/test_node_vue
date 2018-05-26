@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "pg-promise": "^8.4.4"
+    "jade": "^1.11.0",
+    "pg": "^7.4.3",
+    "pg-promise": "^8.4.4",
+    "postgresql": "0.0.1"
   }
 }
